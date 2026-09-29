@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "RUSHIVO",
+    "slug": "rushivo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "no.hjemmekontroll.rushivo"
+    }
+  }
+}
